@@ -32,12 +32,12 @@ An interactive web-based **WYSIWYG outfit editor** built with **Next.js**. Users
 3. 🎨 Arrange items to style your outfit
 4. 🛒 Click **"Add to Cart"** when you're happy with the look
 
----
+
 
 ## 🌐 Live Preview
 
 Click below to explore the live app:  
-🔗 [https://steady-marzipan-c167c0.netlify.app](https://steady-marzipan-c167c0.netlify.app)
+🔗[**Live Preview**](https://steady-marzipan-c167c0.netlify.app)
 
 ---
 
