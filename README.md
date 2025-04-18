@@ -19,12 +19,12 @@ A web-based WYSIWYG (What You See Is What You Get) clothing editor built with **
 
 ## 🧰 Technologies Used
 
-- ⚛️ **React**  
-- 🚀 **Next.js**  
-- 🎨 **Tailwind CSS**  
-- 🔧 **TypeScript**  
-- 📦 **React DnD**  
-- 🌐 **Netlify**  
+- ⚛️ **React** — JavaScript library for building reusable UI components  
+- 🚀 **Next.js** — React framework for server-side rendering and routing  
+- 🎨 **Tailwind CSS** — Utility-first CSS framework for rapid styling  
+- 🔧 **TypeScript** — Adds static typing to JavaScript for better code quality  
+- 📦 **React DnD** — Enables smooth drag-and-drop functionality in the canvas  
+- 🌐 **Netlify** — Used to deploy and host the application online  
 
 
 
