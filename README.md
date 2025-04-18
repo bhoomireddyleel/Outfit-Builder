@@ -3,33 +3,27 @@
 
 An interactive web-based **WYSIWYG outfit editor** built with **Next.js**. Users can **drag and drop** clothing items onto a virtual canvas, mix and match styles, and preview their perfect outfit — all in real time!
 
-> 🔗 **Live Preview:** [https://steady-marzipan-c167c0.netlify.app](https://steady-marzipan-c167c0.netlify.app)
-
----
+👉 [**Live Preview**](https://steady-marzipan-c167c0.netlify.app)
 
 ## ✨ Features
 
-- 🎯 **Drag-and-Drop Interface** — Intuitively move clothing items onto the canvas
-- 🧥 **Real-Time Outfit Preview** — See your look come together instantly
-- 🛍️ **Add to Cart Option** — Save your styled outfit for later
-- ⚡ **Next.js Framework** — Fast performance and scalability
-- 🎨 **Responsive UI with Tailwind CSS** — Seamless experience across devices
-
----
-
-
----
+- 🎯 **Drag-and-Drop Interface** — Intuitively move clothing items onto the canvas  
+- 🧍 **Real-Time Outfit Preview** — See your look come together instantly  
+- 🛒 **Add to Cart Option** — Save your styled outfit for later  
+- ⚡ **Next.js Framework** — Fast performance and scalability  
+- 🎨 **Responsive UI with Tailwind CSS** — Seamless experience across devices  
 
 ## 🧰 Technologies Used
 
-- ⚛️ **React**
-- 🚀 **Next.js**
-- 🎨 **Tailwind CSS**
-- 🧠 **TypeScript**
-- 🧲 **React DnD** (Drag-and-Drop)
-- 🌐 **Netlify** (Deployment)
+- ⚛️ **React**  
+- 🚀 **Next.js**  
+- 🎨 **Tailwind CSS**  
+- 🔧 **TypeScript**  
+- 📦 **React DnD**  
+- 🌐 **Netlify**  
 
----
+
+
 
 ## 🚀 How to Use
 
@@ -50,7 +44,7 @@ Click below to explore the live app:
 Enjoy styling your virtual wardrobe! 💃👕👖✨
 
 
-
+## 📁 Project Structure
 Outfit-Builder/
 ├── app/               # Next.js App Router structure
 ├── components/ui/     # UI components like Canvas, CartButton
