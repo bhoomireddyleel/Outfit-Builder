@@ -1,9 +1,13 @@
 # Outfit-Builder
+
 # 👗 Outfit-Builder
 
-An interactive web-based **WYSIWYG outfit editor** built with **Next.js**. Users can **drag and drop** clothing items onto a virtual canvas, mix and match styles, and preview their perfect outfit — all in real time!
+A web-based WYSIWYG (What You See Is What You Get) clothing editor built with **Next.js**, allowing users to **drag and drop** clothing items onto a canvas to visually assemble outfits in real-time.
 
-👉 [**Live Preview**](https://steady-marzipan-c167c0.netlify.app)
+
+👉 [**Live Preview**](https://steady-marzipan-c167c0.netlify.app) 
+
+
 
 ## ✨ Features
 
@@ -39,20 +43,11 @@ An interactive web-based **WYSIWYG outfit editor** built with **Next.js**. Users
 Click below to explore the live app:  
 🔗[**Live Preview**](https://steady-marzipan-c167c0.netlify.app)
 
----
+
 
 Enjoy styling your virtual wardrobe! 💃👕👖✨
 
 
-## 📁 Project Structure
-Outfit-Builder/
-├── app/               # Next.js App Router structure
-├── components/ui/     # UI components like Canvas, CartButton
-├── hooks/             # Custom React hooks
-├── lib/               # Helper functions or utilities
-├── public/            # Clothing item icons and other static assets
-├── styles/            # Tailwind CSS and custom styles
-├── tailwind.config.ts # Tailwind configuration
-└── tsconfig.json      # TypeScript config
+
 
 
